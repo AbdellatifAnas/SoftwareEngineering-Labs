@@ -1,6 +1,6 @@
 # SoftwareEngineering-Labs
 
-This repository contains the work that has developed during the Software Engineering course. It includes the laboratory assignments completed during the semester, the Software Requirements Specification (SRS) for the **Medical Clinic System**, and the project folders with the updated diagrams created for that system as the course progressed.
+This repository contains the work that has developed during the Software Engineering course. It includes the laboratory assignments completed during the semester, the Software Requirements Specification (SRS) for the **Medical Clinic System**, and the project folders with the updated UML diagrams created for that system as the course progressed.
 
 ## Repository Structure
 
